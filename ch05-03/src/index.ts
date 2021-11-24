@@ -8,3 +8,4 @@ let back: number[] = array.filter((val, index) => index >= half)
 console.log(forward)
 console.log(back)
 console.log(half)
+
